@@ -1,0 +1,8 @@
+{
+  "title": "Middleman Semantic UI Sass",
+  "version": "0.1.0",
+  "description": "A Middleman project template using Sematic UI and Sass.",
+  "homepage": "https://github.com/electronspin/middleman-semantic-ui-sass",
+  "author": "Colin Johnston",
+  "license": "MIT"
+}
